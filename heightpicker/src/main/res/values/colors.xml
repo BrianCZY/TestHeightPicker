@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="base_text_color">#323232</color>
+    <color name="base_text_gray_color">#999999</color>
+    <color name="base_text_blue_color">#7586F8</color>
+    <color name="base_gray_bg">#f7f7f7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="picker_division">#7586F8</color>
+    <color name="picker_text">#8C97CB</color>
+</resources>
